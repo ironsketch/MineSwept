@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MineSwept</string>
+    <string-array name="difficultyarr">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very Hard</item>
+        <item>Woah</item>
+        <item>Jeeze</item>
+    </string-array>
+</resources>
